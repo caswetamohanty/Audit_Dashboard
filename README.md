@@ -76,4 +76,5 @@ HTML, CSS and vanilla JavaScript in one file, with SheetJS 0.18.5, Chart.js 4.4.
 Built as a portfolio project to show how audit and compliance reporting work can be automated with AI-assisted development. I define the reporting requirement from my experience in risk-based audit and compliance engagements (BFSI, Insurance and Healthcare clients), and the tool was built with AI assistance and checked against that requirement.
 
 A project by,
+
 CA Sweta Mohanty| www.linkedin.com/in/caswetamohanty| caswetamohanty@gmail.com
