@@ -1,6 +1,6 @@
-Audit Issue Dashboard Generator;
+Audit Committee Dashboard Generator;
 
-Interactive dashboard for audit committee reporting: issue ratings, aging, owner-wise closure and repeat findings. Drop in an Excel or CSV export and get a stakeholder-ready dashboard in seconds, with no server, no install and no data upload.
+The interactive dashboard is for audit committee reporting: issue ratings, aging, owner-wise closure and repeat findings. Drop in an Excel or CSV export and get a stakeholder-ready dashboard in seconds, with no server, no install and no data upload.
 
 A single-file web tool (index.html) that reads an audit issue log (or any tabular export), works out what each column means, and builds KPI cards and charts automatically. Charts can then be edited, added or removed, and the result exported to Excel or PowerPoint for the audit committee pack.
 
