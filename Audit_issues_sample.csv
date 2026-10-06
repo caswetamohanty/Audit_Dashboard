@@ -1,0 +1,61 @@
+Issue ID,Process,Issue Description,Risk Rating,Status,Date Raised,Due Date,Owner,Days Open,Repeat Finding
+AI-001,Procure to Pay,Vendor master changes not independently reviewed,Medium,Closed,13-11-2025,11-02-2026,Head of Procurement,85,No
+AI-002,Fixed Assets,Physical verification not performed annually,High,Closed,17-11-2025,16-01-2026,Finance Controller,70,No
+AI-003,IT General Controls,Terminated users with active access,Medium,Closed,04-12-2025,04-03-2026,IT Head,47,No
+AI-004,IT General Controls,Backup restoration not tested,High,Closed,07-12-2025,05-02-2026,Security Lead,25,No
+AI-005,Procure to Pay,PO approved after invoice date,Medium,Closed,11-12-2025,11-03-2026,Head of Procurement,33,No
+AI-006,Procure to Pay,Duplicate vendor invoice paid without detection,Medium,Closed,21-12-2025,21-03-2026,Head of Procurement,43,No
+AI-007,IT General Controls,Terminated users with active access,Medium,Closed,28-12-2025,28-03-2026,IT Head,18,Yes
+AI-008,Order to Cash,Credit notes issued without second approval,High,In Progress,01-01-2026,02-03-2026,AR Manager,272,No
+AI-009,Order to Cash,Credit notes issued without second approval,High,In Progress,05-02-2026,06-04-2026,Head of Sales Ops,237,Yes
+AI-010,Fixed Assets,Disposals not removed from register,Medium,Closed,09-02-2026,10-05-2026,Plant Accountant,65,No
+AI-011,Fixed Assets,Disposals not removed from register,High,Closed,17-02-2026,18-04-2026,Plant Accountant,83,Yes
+AI-012,IT General Controls,Terminated users with active access,Low,Overdue,22-02-2026,22-06-2026,IT Head,220,Yes
+AI-013,IT General Controls,Terminated users with active access,Low,Closed,28-02-2026,28-06-2026,IT Head,124,Yes
+AI-014,Hire to Retire,Joiner onboarding checklist incomplete,Low,Overdue,05-03-2026,03-07-2026,HR Manager,209,No
+AI-015,Order to Cash,Revenue recognised before delivery proof,High,Closed,07-03-2026,06-05-2026,Head of Sales Ops,53,No
+AI-016,Fixed Assets,Disposals not removed from register,Medium,Closed,09-03-2026,07-06-2026,Finance Controller,56,Yes
+AI-017,Procure to Pay,Three-way match overridden without approval,Medium,Overdue,22-03-2026,20-06-2026,AP Manager,192,No
+AI-018,Fixed Assets,Disposals not removed from register,Critical,Closed,28-03-2026,27-04-2026,Finance Controller,24,Yes
+AI-019,Fixed Assets,Asset additions capitalised without approval,High,Closed,29-03-2026,28-05-2026,Finance Controller,62,No
+AI-020,IT General Controls,Privileged access not reviewed quarterly,Medium,Closed,02-04-2026,01-07-2026,Security Lead,79,No
+AI-021,Fixed Assets,Asset additions capitalised without approval,Low,Closed,05-04-2026,03-08-2026,Finance Controller,130,Yes
+AI-022,Procure to Pay,Vendor master changes not independently reviewed,High,Closed,10-04-2026,09-06-2026,AP Manager,82,Yes
+AI-023,Order to Cash,Revenue recognised before delivery proof,Low,Overdue,10-04-2026,08-08-2026,Head of Sales Ops,173,Yes
+AI-024,Financial Close,Close checklist sign-offs missing,High,Closed,10-04-2026,09-06-2026,Finance Controller,26,No
+AI-025,Procure to Pay,PO approved after invoice date,High,Closed,16-04-2026,15-06-2026,AP Manager,51,Yes
+AI-026,Inventory,Goods receipt posted late,Medium,In Progress,18-04-2026,17-07-2026,Supply Chain Head,165,No
+AI-027,Financial Close,Bank reconciliations pending beyond 30 days,High,Overdue,22-04-2026,21-06-2026,GL Lead,161,No
+AI-028,Fixed Assets,Physical verification not performed annually,Low,Closed,04-05-2026,01-09-2026,Finance Controller,22,Yes
+AI-029,Treasury,Bank signatory list outdated,High,Overdue,04-05-2026,03-07-2026,Treasury Manager,149,No
+AI-030,Financial Close,Manual journals posted without review,Low,Overdue,06-05-2026,03-09-2026,Finance Controller,147,No
+AI-031,Hire to Retire,Joiner onboarding checklist incomplete,Medium,Overdue,10-05-2026,08-08-2026,HR Manager,143,Yes
+AI-032,IT General Controls,Privileged access not reviewed quarterly,Medium,Overdue,11-05-2026,09-08-2026,IT Head,142,Yes
+AI-033,Procure to Pay,Duplicate vendor invoice paid without detection,Low,Closed,18-05-2026,15-09-2026,Head of Procurement,90,Yes
+AI-034,Hire to Retire,Payroll register not reconciled to GL,Medium,Closed,21-05-2026,19-08-2026,Payroll Lead,86,No
+AI-035,IT General Controls,Change tickets lacking UAT evidence,Low,Closed,27-05-2026,24-09-2026,Security Lead,41,No
+AI-036,Financial Close,Bank reconciliations pending beyond 30 days,Low,Closed,29-05-2026,26-09-2026,GL Lead,123,Yes
+AI-037,Inventory,Cycle count variances not investigated,High,In Progress,05-06-2026,04-08-2026,Warehouse Manager,117,No
+AI-038,Fixed Assets,Physical verification not performed annually,Medium,Closed,05-06-2026,03-09-2026,Finance Controller,50,Yes
+AI-039,Financial Close,Manual journals posted without review,Medium,Closed,06-06-2026,04-09-2026,GL Lead,78,Yes
+AI-040,IT General Controls,Backup restoration not tested,Medium,Overdue,06-06-2026,04-09-2026,IT Head,116,Yes
+AI-041,Inventory,Negative stock balances in system,Low,In Progress,06-06-2026,04-10-2026,Warehouse Manager,116,No
+AI-042,IT General Controls,Change tickets lacking UAT evidence,Low,Open,10-06-2026,08-10-2026,IT Head,112,Yes
+AI-043,Treasury,Bank signatory list outdated,Low,Closed,13-06-2026,11-10-2026,Treasury Manager,109,Yes
+AI-044,IT General Controls,Change tickets lacking UAT evidence,Low,Closed,18-06-2026,16-10-2026,Security Lead,104,Yes
+AI-045,Inventory,Obsolete stock provision not reviewed,Medium,Open,12-07-2026,10-10-2026,Warehouse Manager,80,No
+AI-046,Hire to Retire,Leavers retained on payroll after exit date,Medium,Closed,14-07-2026,12-10-2026,HR Manager,78,No
+AI-047,Financial Close,Bank reconciliations pending beyond 30 days,Medium,Closed,15-07-2026,13-10-2026,Finance Controller,77,Yes
+AI-048,Fixed Assets,Physical verification not performed annually,Low,Closed,16-07-2026,13-11-2026,Plant Accountant,76,Yes
+AI-049,Fixed Assets,Disposals not removed from register,Medium,Open,17-07-2026,15-10-2026,Plant Accountant,75,Yes
+AI-050,Hire to Retire,Leavers retained on payroll after exit date,Critical,Overdue,19-07-2026,18-08-2026,Payroll Lead,73,Yes
+AI-051,Financial Close,Close checklist sign-offs missing,Low,Open,21-07-2026,18-11-2026,GL Lead,71,Yes
+AI-052,Financial Close,Close checklist sign-offs missing,Medium,Open,23-07-2026,21-10-2026,GL Lead,69,Yes
+AI-053,Procure to Pay,Vendor master changes not independently reviewed,Critical,In Progress,29-07-2026,28-08-2026,AP Manager,63,Yes
+AI-054,IT General Controls,Terminated users with active access,Low,In Progress,30-07-2026,27-11-2026,IT Head,62,Yes
+AI-055,Procure to Pay,Vendor master changes not independently reviewed,Low,Closed,31-07-2026,28-11-2026,AP Manager,44,Yes
+AI-056,Order to Cash,Credit notes issued without second approval,Medium,Closed,01-08-2026,30-10-2026,AR Manager,60,Yes
+AI-057,Hire to Retire,Salary revision without HR approval evidence,Medium,In Progress,07-08-2026,05-11-2026,Payroll Lead,54,No
+AI-058,Procure to Pay,Duplicate vendor invoice paid without detection,Medium,Open,15-08-2026,13-11-2026,Head of Procurement,46,Yes
+AI-059,Financial Close,Close checklist sign-offs missing,High,Open,28-08-2026,27-10-2026,GL Lead,33,Yes
+AI-060,Fixed Assets,Disposals not removed from register,Critical,In Progress,03-09-2026,03-10-2026,Plant Accountant,27,Yes
